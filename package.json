@@ -19,7 +19,7 @@
   "author": "Mark Poepping (https://www.mmpro.de)",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "lodash": "^4.17.11",
     "minimist": "^1.2.0"
   }
